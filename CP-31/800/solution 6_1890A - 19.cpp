@@ -13,7 +13,7 @@ int main() {
             cin >> a[i];
         }
  
-        map<long long, long long> frequency_map;
+        map<long long, long long> frequency_map;s
         for (int i = 0; i < n; i++) {
             frequency_map[a[i]]++;
         }
@@ -33,5 +33,4 @@ int main() {
             }
         }
     }
-    return 0;
 }
