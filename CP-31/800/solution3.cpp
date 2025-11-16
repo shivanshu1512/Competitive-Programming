@@ -25,6 +25,5 @@ int main(){
         else
             cout<<total<<endl;
     }
-    return 0;
 }
  
